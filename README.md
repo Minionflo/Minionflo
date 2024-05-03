@@ -1,1 +1,1 @@
-:palm_tree: I like Trees :palm_tree:
+I have transitioned to using my personal Git instance, which is now available at https://git.minionflo.net.
